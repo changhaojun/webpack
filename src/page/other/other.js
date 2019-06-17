@@ -1,4 +1,4 @@
 import './other.scss'
 
 document.querySelector('.content').innerHTML = 'other';
-console.log(100)
+console.log(300)
